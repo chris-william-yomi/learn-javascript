@@ -122,18 +122,18 @@ Recommended order for themes:
 
 Mark completed themes by updating this checklist:
 
-- [ ] variables
-- [ ] operators
-- [ ] conditionals
-- [ ] functions
-- [ ] arrays
-- [ ] objects
-- [ ] loops
-- [ ] scope
-- [ ] callbacks
-- [ ] promises
-- [ ] classes
-- [ ] modules
+- [ x ] variables
+- [ x ] operators
+- [ x ] conditionals
+- [ x ] functions
+- [ x ] arrays
+- [ x ] objects
+- [ x ] loops
+- [ x ] scope
+- [ x ] callbacks
+- [ x ] promises
+- [ x ] classes
+- [ x ] modules
 
 ## 🛠️ Requirements
 
